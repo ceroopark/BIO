@@ -1,4 +1,8 @@
-# Biography
+
+
+
+![Github Stats](https://github-readme-stats.vercel.app/api?username=ceroopark&show_icons=true)
+
 
 Sejong University 
   -Department of English Linguistics and Literature
