@@ -3,6 +3,10 @@
 
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=ceroopark&show_icons=true)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ceroopark)](https://github.com/anuraghazra/github-readme-stats)
+
+
+
 
 Sejong University 
   -Department of English Linguistics and Literature
