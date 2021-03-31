@@ -8,7 +8,7 @@
 
 
 
-Sejong University 
+Sejong University /n
   -Department of English Linguistics and Literature
   -Department of Software Engineering
   -Technical Assistant of Programming(20~21)
